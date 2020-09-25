@@ -40,7 +40,6 @@ def mkdir(z):
                 time.sleep(00000.1)
 
 os.system('xdg-open https://m.youtube.com/channel/UCp1dF4ZlEB2h3HUeLs-a2rA')
-
 ##### LOGO #####
 logo = """      
                                                                                                                                  \033[1;91m
